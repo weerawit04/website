@@ -26,8 +26,12 @@ body {
       margin: 0 auto;
     }
 
-    .headname {
+    .headname1 {
     color: #ffc2b7;
-    
+    font-size: 30px;
     }
    
+    .headname2 {
+      color: #ffc2b7;
+      }
+     
