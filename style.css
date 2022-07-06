@@ -41,4 +41,9 @@ body {
   height: 320px;
   padding: auto;
 }
+
+.maps{
+  border: 1px solid coral
+  height: 300px;
+}
      
