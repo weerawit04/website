@@ -21,6 +21,10 @@ body {
     padding: 10px;
     text-align: center;
   }
+  a{
+    color:black;
+    text-decoration: none;
+  }
     .mainpage 
     {
       width: 1024px; 
@@ -71,5 +75,10 @@ body {
 .topmenu li{
   float: right;
   padding: 10px 40px;
+}
+
+.link10{
+  background-color: white;
+  padding: 10px;
 }
      
